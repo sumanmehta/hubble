@@ -45,3 +45,4 @@ smmap2
 tornado
 urllib3
 vulners
+urllib3==1.25.8
